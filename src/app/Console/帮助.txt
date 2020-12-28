@@ -1,0 +1,2 @@
+//创建
+/usr/local/Cellar/php\@7.2/7.2.14/bin/php /Users/zhudechao/githup/web_portals/src/artisan make:command words
